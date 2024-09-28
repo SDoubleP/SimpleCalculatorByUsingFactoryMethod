@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+#log files
+*.log
+
+# Maven
+target/
+!.mvn/timing.properties
+!mvnw
+!mvnw.Compiled
+*.jar
+*.war
+
+#Gradle
+.gradle/
+build/
+!gradlew
+!gradlew.bat
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other files
+*.user
+*.sublime-workspace
+*.sublime-project
+*.swp
