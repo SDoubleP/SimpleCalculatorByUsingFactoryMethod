@@ -6,6 +6,6 @@ Tabe of contents : Simple Calculator
 
 Technologies Used : Java, VS code
 
-Requirements : JDK, VS code
+Requirements : JDK, Text Editor
 
 Usage Instructions : for Java programming learner
